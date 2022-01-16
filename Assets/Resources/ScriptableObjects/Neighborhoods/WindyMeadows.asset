@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f09bf2ed356c4235ae30bdd7989fd31, type: 3}
+  m_Name: WindyMeadows
+  m_EditorClassIdentifier: 
+  zoneName: Windy Meadows
+  maxSquareFootage: 2500
+  allowedPropertyTypes:
+  - {fileID: 1055106425945020233, guid: 91df22b8102dd41c4afd58baa13fde2c, type: 3}
+  - {fileID: 2844780377554469364, guid: 83c46443f63964b7a8d74e67b06fe9b6, type: 3}
+  minPropertyValue: 80000
+  maxPropertyValue: 120000
+  classAPropertyRatio: 1
+  classBPropertyRatio: 1
+  classCPropertyRatio: 1
